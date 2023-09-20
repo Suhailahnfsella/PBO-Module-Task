@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\TugasModul1_Suhailah\TugasModul1_Suhailah\bin\Debug\net6.0\TugasModul1_Suhailah.exe
+C:\Users\HP\source\repos\TugasModul1_Suhailah\TugasModul1_Suhailah\bin\Debug\net6.0\TugasModul1_Suhailah.deps.json
+C:\Users\HP\source\repos\TugasModul1_Suhailah\TugasModul1_Suhailah\bin\Debug\net6.0\TugasModul1_Suhailah.runtimeconfig.json
+C:\Users\HP\source\repos\TugasModul1_Suhailah\TugasModul1_Suhailah\bin\Debug\net6.0\TugasModul1_Suhailah.dll
+C:\Users\HP\source\repos\TugasModul1_Suhailah\TugasModul1_Suhailah\bin\Debug\net6.0\TugasModul1_Suhailah.pdb
+C:\Users\HP\source\repos\TugasModul1_Suhailah\TugasModul1_Suhailah\obj\Debug\net6.0\TugasModul1_Suhailah.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\TugasModul1_Suhailah\TugasModul1_Suhailah\obj\Debug\net6.0\TugasModul1_Suhailah.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\TugasModul1_Suhailah\TugasModul1_Suhailah\obj\Debug\net6.0\TugasModul1_Suhailah.AssemblyInfo.cs
+C:\Users\HP\source\repos\TugasModul1_Suhailah\TugasModul1_Suhailah\obj\Debug\net6.0\TugasModul1_Suhailah.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\TugasModul1_Suhailah\TugasModul1_Suhailah\obj\Debug\net6.0\TugasModul1_Suhailah.dll
+C:\Users\HP\source\repos\TugasModul1_Suhailah\TugasModul1_Suhailah\obj\Debug\net6.0\refint\TugasModul1_Suhailah.dll
+C:\Users\HP\source\repos\TugasModul1_Suhailah\TugasModul1_Suhailah\obj\Debug\net6.0\TugasModul1_Suhailah.pdb
+C:\Users\HP\source\repos\TugasModul1_Suhailah\TugasModul1_Suhailah\obj\Debug\net6.0\TugasModul1_Suhailah.genruntimeconfig.cache
+C:\Users\HP\source\repos\TugasModul1_Suhailah\TugasModul1_Suhailah\obj\Debug\net6.0\ref\TugasModul1_Suhailah.dll
